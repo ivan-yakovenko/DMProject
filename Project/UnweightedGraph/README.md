@@ -22,6 +22,6 @@ The [GraphVisualization.cs](GraphVisualization.cs/) file consists of the **Graph
 
 ### Description
 
-The [GraphGenerator.cs](GraphGenerator.cs/) file contains the **GraphGenerator** class, which provides a method to generate a random undirected unweighted graph based on the Erdős–Rényi model. The **GenerateGraph** method takes an instance of **UnweightedGraph<int>** and a **probability** value as input. It randomly adds edges between vertices based on the probability value.
+The [GraphGenerator.cs](GraphGenerator.cs/) file contains the **GraphGenerator** class, which provides a method to generate a random undirected unweighted graph based on the *Erdős–Rényi model*. The **GenerateGraph** method takes an instance of **UnweightedGraph<int>** and a **probability** value as input. It randomly adds edges between vertices based on the probability value.
 
 
