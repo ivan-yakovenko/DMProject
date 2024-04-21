@@ -10,7 +10,7 @@ This folder contains components related to generating and visualizing undirected
 
 ### Description
 
-This [file](UnweightedGrapgh.cs/) defines the **UnweightedGraph<T>** class, which represents an undirected unweighted graph. It's the backbone of our graph implementation, providing methods for adding vertices, adding edges, and removing edges. The graph is internally represented using both an adjacency matrix and an adjacency list.
+This [file](UnweightedGraph.cs/) defines the **UnweightedGraph<T>** class, which represents an undirected unweighted graph. It's the backbone of our graph implementation, providing methods for adding vertices, adding edges, and removing edges. The graph is internally represented using both an adjacency matrix and an adjacency list.
 
 ## GraphVisualization.cs
 
