@@ -8,11 +8,13 @@ namespace Project.Graphs
         {
             UnweightedGraph<int> unweightedGraph = new UnweightedGraph<int>(5);
 
-            unweightedGraph.AddEdge(0, 1);
-            unweightedGraph.AddEdge(0, 2);
-            unweightedGraph.AddEdge(1, 3);
-            unweightedGraph.AddEdge(2, 4);
-            unweightedGraph.AddEdge(1, 4);
+            // unweightedGraph.AddEdge(0, 1);
+            // unweightedGraph.AddEdge(0, 2);
+            // unweightedGraph.AddEdge(1, 3);
+            // unweightedGraph.AddEdge(2, 4);
+            // unweightedGraph.AddEdge(1, 4);
+            
+            GraphGenerator.GenerateGraph(unweightedGraph, 0.4);
             
             GraphVisualization.PrintUnweightedMatrix(unweightedGraph);
 
