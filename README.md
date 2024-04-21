@@ -1,2 +1,3 @@
-# DMProject
-GitHub-repository for the discrete mathematics project. Theme: "Побудова матриці досяжності графу за допомогою DFS та BFS."
+# Discrete Mathematics Project
+---
+This is GitHub-repository for the discrete mathematics project. Theme: "Building a graph reachability matrix using DFS and BFS"
