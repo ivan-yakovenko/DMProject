@@ -12,4 +12,6 @@ The project repository consists of a folder named [**Project**](Project/), conta
 
 - [**Algorithms**](Project/Algorithms/)
 - [**UnweightedGraph**](Project/UnweightedGraph)
+
+and a [**Program.cs**](Project/Program.cs/) file, where we conduct our experiment to analyze the performance of DFS and BFS algorithms for different graph sizes and probabilities.
   
