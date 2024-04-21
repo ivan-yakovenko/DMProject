@@ -45,16 +45,13 @@ namespace Project.Graphs
             Console.WriteLine("Adjacency List:");
             for (int i = 0; i < AdjacencyList.Count; i++)
             {
-                Console.WriteLine($"[i]: ");
-                foreach (var _ in AdjacencyList[i])
+                Console.Write($"{i}: ");
+                foreach (var item in AdjacencyList[i])
                 {
-                    Console.WriteLine($"[_], ");
+                    Console.Write($"{item}, ");
                 }
-
                 Console.WriteLine();
             }
         }
-        
     }
-    
 }

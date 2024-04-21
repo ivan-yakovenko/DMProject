@@ -40,10 +40,10 @@ namespace Project.Graphs
             Console.WriteLine("Adjacency List:");
             for (int i = 0; i < AdjacencyList.Count; i++)
             {
-                Console.WriteLine($"[i]: ");
-                foreach (var _ in AdjacencyList[i])
+                Console.Write($"{i}: ");
+                foreach (var item in AdjacencyList[i])
                 {
-                    Console.Write($"(Vertex: {_.Vertex}, Weight: {_.Weight})");
+                    Console.Write($"{item.Vertex}|({item.Weight}), ");
                 }
                 Console.WriteLine();
             }
