@@ -10,5 +10,6 @@ This project focuses on building a graph reachability matrix utilizing Depth-Fir
 
 The project repository consists of a folder named [**Project**](Project/), containing two subfolders:
 
-- [**Algorithms**](Algorithms/)
-- [**UnweightedGraph**](UnweightedGraph)
+- [**Algorithms**](Project/Algorithms/)
+- [**UnweightedGraph**](Project/UnweightedGraph)
+  
