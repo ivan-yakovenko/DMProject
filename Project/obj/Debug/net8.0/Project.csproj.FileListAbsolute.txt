@@ -1,0 +1,15 @@
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/bin/Debug/net8.0/Project
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/bin/Debug/net8.0/Project.deps.json
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/bin/Debug/net8.0/Project.runtimeconfig.json
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/bin/Debug/net8.0/Project.dll
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/bin/Debug/net8.0/Project.pdb
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/Project.AssemblyInfoInputs.cache
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/Project.AssemblyInfo.cs
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/Project.csproj.CoreCompileInputs.cache
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/Project.sourcelink.json
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/Project.dll
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/refint/Project.dll
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/Project.pdb
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/Project.genruntimeconfig.cache
+/Users/ivanyakovenko/RiderProjects/DMProject/Project/obj/Debug/net8.0/ref/Project.dll

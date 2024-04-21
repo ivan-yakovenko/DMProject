@@ -15,6 +15,7 @@ public class BFS
         while (vertices.Count != 0)
         {
             int vertex = vertices.Dequeue();
+            Console.WriteLine(vertex + " ");
 
             foreach (int neighbour in graph.AdjacencyList[vertex])
             {

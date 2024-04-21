@@ -1,4 +1,6 @@
-﻿namespace Project.Graphs
+﻿using Project.Algorithms;
+
+namespace Project.Graphs
 {
     class Program
     {
@@ -10,13 +12,15 @@
             unweightedGraph.AddEdge(0, 2);
             unweightedGraph.AddEdge(1, 3);
             unweightedGraph.AddEdge(2, 4);
+            unweightedGraph.AddEdge(1, 4);
             
             GraphVisualization.PrintUnweightedMatrix(unweightedGraph);
 
             GraphVisualization.PrintUnweightedList(unweightedGraph.AdjacencyList);
-
             
-            Console.ReadLine();
+            DFS.DFSUse(unweightedGraph, 0); 
+            BFS.BFSUse(unweightedGraph, 0); 
+            
         }
     }
 }

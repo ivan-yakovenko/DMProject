@@ -15,6 +15,7 @@ public static class DFS
         while (vertices.Count != 0)
         {
             int vertex = vertices.Pop();
+            Console.WriteLine(vertex + " ");
 
             foreach (int neighbour in graph.AdjacencyList[vertex])
             {
@@ -26,6 +27,7 @@ public static class DFS
             }
             
         }
+        Console.WriteLine();
     }
 
 }
